@@ -50,7 +50,7 @@ function App() {
               <a
                 href="#chat"
                 aria-current={isChat ? 'page' : undefined}
-                onClick={() => setMenuOpen(false)}
+                onClick={() => setMenuOpe(false)}
               >
                 メニュー1
               </a>
