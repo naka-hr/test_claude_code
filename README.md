@@ -1,3 +1,9 @@
+# 起動方法
+docker compose up
+
+# リポジトリについて
+claude codeでのプルリクレビューや動作確認、docker環境構築の練習
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
